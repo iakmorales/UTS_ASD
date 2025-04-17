@@ -20,8 +20,8 @@ public class siakad {
         new Nilai(mahasiswas[2], matakuliahs[1], 85, 90, 95), 
         new Nilai(mahasiswas[2], matakuliahs[2], 80, 90, 65)  
     };
-    static Scanner scanner = new Scanner(System.in);
 
+    static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         int pilihan;
         do {

@@ -1,7 +1,7 @@
 public class Mahasiswa{
-    private String NIM;
-    private String nama;
-    private String prodi;
+    String NIM;
+    String nama;
+    String prodi;
 
     public Mahasiswa(String NIM, String nama, String prodi) {
         this.NIM = NIM;

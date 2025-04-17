@@ -1,9 +1,9 @@
 public class Nilai {
-    private Mahasiswa mahasiswa;
-    private Matakuliah matakuliah;
-    private double nilaiTugas;
-    private double nilaiUTS;
-    private double nilaiUAS;
+    Mahasiswa mahasiswa;
+    Matakuliah matakuliah;
+    double nilaiTugas;
+    double nilaiUTS;
+    double nilaiUAS;
     double nilaiAkhir;
 
     public Nilai(Mahasiswa mahasiswa, Matakuliah matakuliah, double nilaiTugas, double nilaiUTS, double nilaiUAS) {
